@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiverse", "Multiverse\Multiverse.csproj", "{ADA38D7C-C25F-47FC-8330-9EEDD1EDD147}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADA38D7C-C25F-47FC-8330-9EEDD1EDD147}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADA38D7C-C25F-47FC-8330-9EEDD1EDD147}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADA38D7C-C25F-47FC-8330-9EEDD1EDD147}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADA38D7C-C25F-47FC-8330-9EEDD1EDD147}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD20C5A7-C342-4B6B-BAD4-91711BAD31F7}
+	EndGlobalSection
+EndGlobal
